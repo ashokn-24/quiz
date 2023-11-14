@@ -121,7 +121,7 @@ const questions =[
   },
   {
     question: "Standing form of Ganesha were present in which cave temple in Tamil Nadu?",
-    image: "./img/que-13.jpg",
+    image: "./img/que-1.jpg",
     answers: [
       { text: "Tiruchchirapalli", correct: true},
       { text: "Kottaiyur", correct: false},
